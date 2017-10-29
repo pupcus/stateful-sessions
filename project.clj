@@ -1,4 +1,4 @@
-(defproject org.pupcus/stateful-sessions "0.0.3"
+(defproject org.pupcus/stateful-sessions "0.0.4-SNAPSHOT"
 
   :description "sandbar's stateful sessions factored out"
 
