@@ -2,9 +2,9 @@
 
   :description "sandbar's stateful sessions factored out"
 
-  :url "https://bitbucket.org/pupcus/stateful-sessions"
+  :url "https://github.com/pupcus/stateful-sessions"
 
-  :scm {:url "git@bitbucket.org:pupcus/stateful-sessions"}
+  :scm {:url "git@github.com:pupcus/stateful-sessions.git"}
 
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
